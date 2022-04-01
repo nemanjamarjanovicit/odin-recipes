@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple HTML Website made through The Odin Project course.
