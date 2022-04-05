@@ -1,0 +1,36 @@
+body {
+    background-color: #DAF7A6;
+    font-family: Brush Script MT, cursive;
+    margin: auto;
+    font-size: 24px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: black;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+.recipe-list ul{
+    font-size: 36px;
+    list-style: none;
+    text-align: left;
+}
+
+.recipe-list a {
+    text-decoration: none;
+    color: black;
+}
+
+.recipe-img {
+    min-width: 45%;
+    display: block;
+    margin: auto;
+}
